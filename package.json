@@ -2,10 +2,8 @@
   "name": "react-use-face-detection",
   "version": "1.0.1",
   "main": "build/index.js",
-  "module": "build/index.esm.js",
-  "files": [
-    "build"
-  ],
+  "module": "build/index.js",
+  "files": ["build"],
   "types": "build/index.d.ts",
   "description": "Face detection React hook powered by @mediapipe/face_detection, @mediapipe/camera_utils, react-webcam",
   "scripts": {
