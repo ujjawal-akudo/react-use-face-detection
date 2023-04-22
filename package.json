@@ -3,7 +3,9 @@
   "version": "1.0.1",
   "main": "build/index.js",
   "module": "build/index.js",
-  "files": ["build"],
+  "files": [
+    "build"
+  ],
   "types": "build/index.d.ts",
   "description": "Face detection React hook powered by @mediapipe/face_detection, @mediapipe/camera_utils, react-webcam",
   "scripts": {
